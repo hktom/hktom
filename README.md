@@ -17,7 +17,7 @@ Beyond my technical skills, I have a keen interest in philosophy, arts, classica
 Javascript, PHP, Laravel, React, Flutter, Express, Python, Dart, FastApi, Docker, TypeScript, Mysql, MongoDB, Firestore, Material, Chakra, Bootstrap, Git, Docker, monolithic, REST, GraphQL, Wordpress
 
 
-## 👩‍💻 Some Works Done
+## 👩‍💻 Some Work Done
 
 - https://app.feelinads.com/
 - https://intra.axialys.net/
