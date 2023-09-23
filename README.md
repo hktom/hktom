@@ -30,6 +30,11 @@ Javascript, PHP, Laravel, React, Flutter, Express, Python, Dart, FastApi, Docker
 - [Ouragan cd News app](https://play.google.com/store/apps/details?id=com.ouragancd.ouragan_app&pcampaignid=web_share)
 - https://ouragan.cd/
 
+## 🚀 Certifications
+
+- https://www.udemy.com/certificate/UC-ecabfd7f-bf3a-48af-9060-58c42d2552bb/
+- https://www.udemy.com/certificate/UC-75d73ff8-7552-4da7-85b0-3e7c3937508c/
+
 
 ## 🔗 Links
 
