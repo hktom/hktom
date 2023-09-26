@@ -3,14 +3,14 @@
 
 
 ## 🚀 About Me
-I am a Fullstack Developer with experience in various programming languages such as PHP, Javascript, Python, and Dart. I have a background in developing and integrating APIs and I am proficient in frameworks like Laravel, FastApi, Flutter, Vuejs, ReactJs, ExpressJs.
 
-With expertise in databases like Mysql, MariaDb, Firestore and MongoDB, I have successfully developed and implemented solutions for various clients. I am also experienced in using component libraries such as Material, Chakra, and Bootstrap. My familiarity with tools like Git, Docker, REST, GraphQL, Wordpress enhances my capabilities as a developer.
+Experienced Full-Stack Developer with a solid track record of 6 years in diverse programming languages and frameworks. Proficient in PHP, JavaScript, Python, and Dart, focusing on seamless API development and integration. Skilled in utilizing a wide array of frameworks such as Laravel, FastAPI, Flutter, Vue.js, React.js, React Native, Express.js, Next.js, and Nuxt.js. Extensive database management expertise including MySQL, PostgreSQL, and MongoDB.
 
-I hold a Bachelor's degree in Information System Development and a BTS degree in Computer Science. Additionally, I am fluent in French, English, and Lingala.
+Throughout my career, I have directed front-end development, leveraging technologies like Next.js and MUI to enhance user interaction and elevate customer experience for Abstract API's services. Utilized Python and FastAPI to maintain robust server-side logic, ensuring efficient data exchange between the server and user-facing components. Proficient in overseeing complete software development cycles, aligning with Agile methodologies from initial design to rigorous testing.
 
-Beyond my technical skills, I have a keen interest in philosophy, arts, classical music, and tourism. I am a dedicated, detail-oriented individual who is passionate about delivering high-quality work.
+As a critical problem-solver, I have successfully troubleshooted complex issues to optimize platform performance, enhance security, and ensure scalability. My dedication to constructing modern, responsive user interfaces emphasizes wide accessibility and cross-device compatibility, significantly improving the overall user experience.
 
+Adept at fostering collaborative efforts among cross-functional teams, I consistently deliver projects on schedule while minimizing technical debt and implementing best practices for testing and continuous integration. My proactive approach to code review and constructive feedback has consistently elevated code quality and design. With a strong foundation in full-stack development, I am passionate about implementing innovative solutions that drive business goals and deliver exceptional value.
 
 
 ## 🛠 Skills
@@ -19,6 +19,7 @@ Javascript, PHP, Laravel, React, Flutter, Express, Python, Dart, FastApi, Docker
 
 ## 👩‍💻 Some Work Done
 
+- https://wordcamp.vercel.app/
 - https://app.feelinads.com/
 - https://intra.axialys.net/
 - https://app.axialys.com/
