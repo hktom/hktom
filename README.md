@@ -33,6 +33,7 @@ Javascript, PHP, Laravel, React, Flutter, Express, Python, Dart, FastApi, Docker
 
 ## 🚀 Certifications
 
+- [Clean code](https://www.udemy.com/certificate/UC-c11a56a3-bce7-4ad3-8acb-620745367e6f/)
 - [React - The Complete Guide 2023 (incl. React Router & Redux)](https://www.udemy.com/certificate/UC-3f2a7cf1-5037-48b1-ad7b-cfc8fa6d64a3)
 - [The Complete 2023 Web Development Bootcamp](https://www.udemy.com/certificate/UC-1b8a43d6-35e1-43bc-8abc-c6942d79cd8b/)
 - [Master Express Framework Examples Node.Js - Zero to Advanced ](https://www.udemy.com/certificate/UC-ecabfd7f-bf3a-48af-9060-58c42d2552bb/)
