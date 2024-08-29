@@ -43,6 +43,6 @@ Javascript, PHP, Laravel, React, Flutter, Express, Python, Dart, FastApi, Docker
 
 ## 🔗 Links
 
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tom-hikari-4041a5130/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tom-kembo-4041a5130/)
 
 
