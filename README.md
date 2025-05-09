@@ -1,48 +1,87 @@
+<h1 align="left">Hey 👋 What's up?</h1>
 
-# Hi, I'm Tom Hikari 👋
+###
 
+<p align="left">My name is Tom, and I'm a full-stack developer. Let's catch up.</p>
 
-## 🚀 About Me
+###
 
-Experienced Full-Stack Developer with a solid track record of 6 years in diverse programming languages and frameworks. Proficient in PHP, JavaScript, Python, and Dart, focusing on seamless API development and integration. Skilled in utilizing a wide array of frameworks such as Laravel, FastAPI, Flutter, Vue.js, React.js, React Native, Express.js, Next.js, and Nuxt.js. Extensive database management expertise including MySQL, PostgreSQL, and MongoDB.
+<h2 align="left">About me</h2>
 
-Throughout my career, I have directed front-end development, leveraging technologies like Next.js and MUI to enhance user interaction and elevate customer experience for Abstract API's services. Utilized Python and FastAPI to maintain robust server-side logic, ensuring efficient data exchange between the server and user-facing components. Proficient in overseeing complete software development cycles, aligning with Agile methodologies from initial design to rigorous testing.
+###
 
-As a critical problem-solver, I have successfully troubleshooted complex issues to optimize platform performance, enhance security, and ensure scalability. My dedication to constructing modern, responsive user interfaces emphasizes wide accessibility and cross-device compatibility, significantly improving the overall user experience.
+<p align="left">I'm a Senior Full-Stack Developer with over 7 years of experience building scalable and high-performance web applications. My expertise spans a broad tech stack including JavaScript, Python, React, Node.js, NestJS, Django, FastAPI, and Flutter.<br><br>I’m passionate about solving critical issues, optimizing performance, and delivering clean, maintainable code. Recently, I played a key role in developing a health consultation and insurance tracking system, where I focused on improving reliability and fixing major bugs using Python and React.<br><br>Always driven by curiosity and a strong focus on user experience, I strive to build systems that are functional, efficient, and enjoyable.</p>
 
-Adept at fostering collaborative efforts among cross-functional teams, I consistently deliver projects on schedule while minimizing technical debt and implementing best practices for testing and continuous integration. My proactive approach to code review and constructive feedback has consistently elevated code quality and design. With a strong foundation in full-stack development, I am passionate about implementing innovative solutions that drive business goals and deliver exceptional value.
+###
 
+<h2 align="left">I code with</h2>
 
-## 🛠 Skills
-Javascript, PHP, Laravel, React, Flutter, Express, Python, Dart, FastApi, Docker, TypeScript, Mysql, MongoDB, Firestore, Material, Chakra, Bootstrap, Git, Docker, monolithic, REST, GraphQL, Wordpress
+###
 
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" alt="nestjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" alt="redux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="dart logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" height="40" alt="graphql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="laravel logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cucumber/cucumber-plain.svg" height="40" alt="cucumber logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="fastapi logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="40" alt="jquery logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="40" alt="materialui logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="sass logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+</div>
 
-## 👩‍💻 Some Work Done
+###
 
-- https://wordcamp.vercel.app/
-- https://app.feelinads.com/
-- https://intra.axialys.net/
-- https://app.axialys.com/
-- https://www.tandemadvertising.com/
-- https://www.maitrecochon.fr/
-- https://digital-africa.co/en/
-- https://www.tandemadvertising.com/
-- https://politiques-biodiversite.ge-en-vie.ch/
-- [Ouragan cd News app](https://play.google.com/store/apps/details?id=com.ouragancd.ouragan_app&pcampaignid=web_share)
-- https://ouragan.cd/
+<h2 align="left">Contributions</h2>
 
-## 🚀 Certifications
+###
 
-- [TDD Fundamentals in TypeScript](https://www.udemy.com/certificate/UC-cf82145c-bb30-4ed8-8b97-ca1c16bd4738/)
-- [Clean code](https://www.udemy.com/certificate/UC-c11a56a3-bce7-4ad3-8acb-620745367e6f/)
-- [React - The Complete Guide 2023 (incl. React Router & Redux)](https://www.udemy.com/certificate/UC-3f2a7cf1-5037-48b1-ad7b-cfc8fa6d64a3)
-- [The Complete 2023 Web Development Bootcamp](https://www.udemy.com/certificate/UC-1b8a43d6-35e1-43bc-8abc-c6942d79cd8b/)
-- [Master Express Framework Examples Node.Js - Zero to Advanced ](https://www.udemy.com/certificate/UC-ecabfd7f-bf3a-48af-9060-58c42d2552bb/)
-- [GraphQL by Example](https://www.udemy.com/certificate/UC-75d73ff8-7552-4da7-85b0-3e7c3937508c/)
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=hktom&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hktom&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hktom&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+</div>
 
-
-## 🔗 Links
-
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tom-kembo-4041a5130/)
-
-
+###
