@@ -1,73 +1,74 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+# 👋 Hi, I’m Tom
 
-###
+🚀 **Senior Software Engineer** with 6+ years of experience building **scalable, distributed, cloud-native systems**.  
+I specialize in **backend architecture, microservices, and system design**, combining hands-on delivery with a leadership mindset.
 
-<p align="left">My name is Tom, and I'm a full-stack developer. Let's catch up.</p>
+I’ve contributed to **architecture decisions**, **platform migrations**, and **high-impact product delivery** across startups and scale-ups,  while mentoring developers and raising engineering standards.
 
-###
+---
 
-<h2 align="left">About me</h2>
+## 🧭 What I Do
 
-###
+- 🏗️ Design and build **microservice architectures** & **high-performance APIs**
+- 🔁 Develop **distributed & event-driven systems**
+- 🔄 Migrate **monoliths → cloud-native platforms**
+- ☁️ Deploy and operate systems on **AWS with Kubernetes**
+- 👥 Improve team effectiveness through **code reviews, mentorship & technical leadership**
 
-<p align="left">I'm a Senior Full-Stack Developer with over 7 years of experience building scalable and high-performance web applications. My expertise spans a broad tech stack including JavaScript, Python, React, Node.js, NestJS, Django, FastAPI, and Flutter.<br><br>I’m passionate about solving critical issues, optimizing performance, and delivering clean, maintainable code. Recently, I played a key role in developing a health consultation and insurance tracking system, where I focused on improving reliability and fixing major bugs using Python and React.<br><br>Always driven by curiosity and a strong focus on user experience, I strive to build systems that are functional, efficient, and enjoyable.</p>
+I care deeply about **clarity in design**, **long-term maintainability**, and **pragmatic engineering choices** that scale with both users and teams.
 
-###
+---
 
-<h2 align="left">I code with</h2>
+## 🧠 Areas of Expertise
 
-###
+- 🧩 System Design & Architecture  
+- 🌐 Distributed Systems & Microservices  
+- ⚡ API Design, Documentation & Optimization  
+- 📬 Event-Driven Architectures (Message Brokers)  
+- ☁️ Cloud Infrastructure & CI/CD  
+- 🎓 Technical Mentorship & Code Reviews  
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" alt="nestjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" alt="redux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="dart logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" height="40" alt="graphql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="laravel logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cucumber/cucumber-plain.svg" height="40" alt="cucumber logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="fastapi logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="40" alt="jquery logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="40" alt="materialui logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="sass logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-</div>
+---
+
+## 🛠 Tech Stack
+
+### 🔹 Backend
+- 🐍 Python · 🐘 PHP · 🟢 Node.js  
+- 🐇 RabbitMQ · 🔌 WebSockets  
+- 🔗 REST APIs · 🧱 Microservices  
+
+### 🔹 Frontend
+- ⚛️ React · ➡️ Next.js  
+- 📜 JavaScript · 🟦 TypeScript  
+
+### 🔹 Infrastructure & DevOps
+- 🐳 Docker · ☸️ Kubernetes  
+- ☁️ AWS  
+- 🤖 GitHub Actions · 🛠 Jenkins · 🦊 GitLab CI/CD  
+
+### 🔹 Data & Tools
+- 🗄 PostgreSQL · 🐬 MySQL  
+- 🧪 Postman · 📐 UML  
+
+---
+
+## 👥 Leadership & Collaboration
+
+- 🧠 Involved in **architecture & stack decisions**
+- 🔍 Conduct **code reviews & technical interviews**
+- 🧑‍🏫 Mentor junior developers via **structured onboarding & 1:1s**
+- 🤝 Collaborate closely with **product managers & stakeholders**
+
+---
+
+## 🌍 What I’m Open To
+
+- 🧑‍💼 Senior / Staff Software Engineer roles  
+- 🧠 Backend, Platform & Distributed Systems teams  
+- 🌎 Remote-first or international environments  
+- 🚀 Products with real-world impact & technical depth  
+
+---
+
+📫 **Let’s connect**
+- 🔗 LinkedIn: *(https://www.linkedin.com/in/tom-k-4041a5130/)*  
